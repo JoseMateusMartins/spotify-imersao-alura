@@ -1,6 +1,7 @@
 # SPOTIFY IMERSÃO FRONT END ALURA
 
-![image](https://github.com/user-attachments/assets/2e45682c-be97-43cb-a360-6ea3b1946eb1)
+![image](https://github.com/user-attachments/assets/7d9dcdca-f7ee-47ff-8697-349f635cb6d8)
+
 
 
 # Como testar a API
