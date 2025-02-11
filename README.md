@@ -1,4 +1,4 @@
-SPOTIFY IMERSÃO FRONT END ALURA
+# SPOTIFY IMERSÃO FRONT END ALURA
 
 ![image](https://github.com/user-attachments/assets/2e45682c-be97-43cb-a360-6ea3b1946eb1)
 
